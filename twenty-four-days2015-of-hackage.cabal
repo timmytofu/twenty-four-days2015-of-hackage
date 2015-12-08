@@ -26,7 +26,7 @@ library
                      , NonEmptyListExample
                      , Sort3
                      , MultisetExample
-  build-depends:       base >= 4.7 && < 5
+  build-depends:       base >= 4.8 && < 5
                      , pcre-heavy
                      , wreq
                      , text
